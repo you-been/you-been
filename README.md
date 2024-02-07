@@ -21,5 +21,5 @@
 ## my portfolio 📚
 <a href="https://you-been.github.io/Youbeen-Portfolio/" target="_blank">Go to my portfolio !</a>
 
-## contact 
+## contact 📧
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white) ybcho97@gmail.com
