@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F3C5C5&height=200&section=header&text=Hi%20there%20👋&Size=30&animation=blinking&fontSize=50&fontColor=DDDDDD&fontAlign=70&stroke=000000&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F3C5C5&height=200&section=header&text=CHO%20YOU%20BEEN&Size=30&animation=blinking&fontSize=50&fontColor=DDDDDD&fontAlign=70&stroke=000000&strokeWidth=2)
 
-<!--### Hi there 👋-->
-# I'm CHO YOU BEEN 🐱
+### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-been&count_bg=%23DB88A5&title_bg=%23BA6382&icon=&icon_color=%23FFCCCC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 <img src="https://github.com/you-been/you-been/assets/142865292/e08d381a-39bb-408d-a419-3df805f7c84e" width="240" height="240">
