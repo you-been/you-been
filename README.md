@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F3C5C5&height=200&section=header&text=CHO%20YOU%20BEEN&Size=50&fontSize=50&fontColor=FFFFFF&fontAlign=70&stroke=000000&strokeWidth=2)
 
-### 🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-been&count_bg=%23DB88A5&title_bg=%23BA6382&icon=&icon_color=%23FFCCCC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+### 🍒🍒🍒
+<p align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-been&count_bg=%23DB88A5&title_bg=%23BA6382&icon=&icon_color=%23FFCCCC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </p>
 
 <img src="https://github.com/you-been/you-been/assets/142865292/e08d381a-39bb-408d-a419-3df805f7c84e" width="240" height="240">
 
 
 ![You-been's GitHub stats](https://github-readme-stats.vercel.app/api?username=You-been&show_icons=true&theme=dracula)
 
-## Tech Stacks 💪
+## 💪 Tech Stacks 💪
 ### Tech that I've used at least once
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -22,8 +22,10 @@
 ![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-## my portfolio 📚
+## 📚 my portfolio 📚
 <a href="https://you-been.github.io/Youbeen-Portfolio/" target="_blank">Go to my portfolio !</a>
 
-## contact 📧
+## 📧 contact 📧
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white) ybcho97@gmail.com
+
+### 🍒🍒🍒
