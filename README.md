@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF8FB1&height=300&section=header&text=Hi%20there%20👋&animation=twinkling&fontSize=50&fontColor=AAAAAA)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFE2E2&height=300&section=header&text=Hi%20there%20👋&animation=twinkling&fontSize=50&fontColor=AAAAAA)
 
 <!--### Hi there 👋-->
 # I'm CHO YOU BEEN 🐱
