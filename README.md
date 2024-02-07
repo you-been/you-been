@@ -10,6 +10,7 @@
 ![You-been's GitHub stats](https://github-readme-stats.vercel.app/api?username=You-been&show_icons=true&theme=dracula)
 
 
+
 ## 💪 Tech Stacks 💪
 ### Tech that I've used at least once
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -26,8 +27,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
+
 ## 📚 my portfolio 📚
 <a href="https://you-been.github.io/Youbeen-Portfolio/" target="_blank">Go to my portfolio !</a>
+
 
 
 ## 📧 contact 📧
