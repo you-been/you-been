@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F3C5C5&height=200&section=header&text=CHO%20YOU%20BEEN&Size=50&fontSize=50&fontColor=FFFFFF&fontAlign=70&stroke=000000&strokeWidth=2)
 
-<p align="center"><h3>🍒🍒🍒</h3><p align="center">
+<p align="center"><h3>🍒🍒🍒</h3></p>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-been&count_bg=%23DB88A5&title_bg=%23BA6382&icon=&icon_color=%23FFCCCC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
