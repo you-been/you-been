@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F3C5C5&height=100&section=header&text=CHO%20YOU%20BEEN&Size=50&fontSize=80&fontColor=999999)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F3C5C5&height=100&section=header&text=CHO%20YOU%20BEEN&Size=50&fontSize=60&fontColor=999999)
 
 ### 🍒🍒🍒
   
