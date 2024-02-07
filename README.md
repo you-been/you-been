@@ -2,7 +2,9 @@
 
 ### 🍒🍒🍒
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-been&count_bg=%23DB88A5&title_bg=%23BA6382&icon=&icon_color=%23FFCCCC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+<p align="center">
+  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-been&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
 
 <img src="https://github.com/you-been/you-been/assets/142865292/e08d381a-39bb-408d-a419-3df805f7c84e" width="240" height="240">
 
