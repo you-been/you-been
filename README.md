@@ -2,7 +2,7 @@
 # I'm CHO YOU BEEN 🐱
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-been&count_bg=%23DB88A5&title_bg=%23BA6382&icon=&icon_color=%23FFCCCC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-<img src="https://github.com/you-been/you-been/assets/142865292/72bb8b9e-1d2f-4464-8fe8-e3df24a2c4f4" width="280" height="280">
+<img src="https://github.com/you-been/you-been/assets/142865292/e08d381a-39bb-408d-a419-3df805f7c84e" width="280" height="280">
 
 
 ![You-been's GitHub stats](https://github-readme-stats.vercel.app/api?username=You-been&show_icons=true&theme=dracula)
