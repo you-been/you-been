@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F3C5C5&height=200&section=header&text=CHO%20YOU%20BEEN&Size=50&fontSize=50&fontColor=FFFFFF&fontAlign=70&stroke=000000&strokeWidth=2)
 
-<h3 align="center">🍒🍒🍒</h3>
+### 🍒🍒🍒
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyou-been&count_bg=%23DB88A5&title_bg=%23BA6382&icon=&icon_color=%23FFCCCC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+</br>
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
