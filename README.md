@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F3C5C5&height=120&section=header&text=YOUBEEN%20CHO&Size=50&fontSize=60&fontColor=999999)
 
 ### 🌷🌷🌷
   
