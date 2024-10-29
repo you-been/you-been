@@ -34,4 +34,4 @@
 </br>
 
 ## 📧 contact 📧
-![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white) ybcho97@gmail.com
+ybcho97@gmail.com
